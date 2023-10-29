@@ -1,6 +1,7 @@
 # Content-Management-Tool
 
- Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to streamline content creation, organization, and distribution. It provides an intuitive platform for content managers and creators to efficiently manage digital assets, multimedia files, and other content resources.
+ Built using the MERN stack (MongoDB, Express.js, React.js, Node.js) to streamline content creation, organization, and distribution. It provides an intuitive platform for content managers and creators to 
+ efficiently manage digital assets, multimedia files, and other content resources.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -28,11 +29,11 @@ To set up the Content Management Tool locally, follow these steps:
 git clone https://github.com/Sanghanmol/Content-Management-Tool
 
 2. Install dependencies:
-cd main
-npm install
+- cd main
+- npm install
 
 3. Configure environment variables:
-- Add the required environment variables (e.g., database connection details, secret keys, etc.).
+ Add the required environment variables (e.g., database connection details, secret keys, etc.).
 
 4. Start the backend and frontend server:
 npm start
@@ -45,3 +46,9 @@ http://localhost:3000
 - Content Creation: Users can create new articles, upload images, videos, and other media files, and compose engaging content pieces.
 - Editing and Revisions: Edit existing content and maintain a version history for content revisions.
 - Media Management: Organize multimedia assets, ensuring quick access and seamless integration into articles.
+
+## API Documentation
+For API documentation, refer to the [API documentation](api-docs.md) file.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
