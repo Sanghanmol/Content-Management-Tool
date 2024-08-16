@@ -47,7 +47,6 @@ const Header = () => {
                 textColor="white"
                 value={value}
                 onChange={(e, val) => setValue(val)}
-                fontWeight="bold"
               >
                 <Tab label="Blogs" LinkComponent={Link} to="/blogs" />
                 <Tab label="My Blogs" LinkComponent={Link} to="/my-blogs" />
